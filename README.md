@@ -5,4 +5,4 @@
 > Python version  3.3
 
 
-> Python Packages: pandas, node2vec, numpy, sklearn, scipy, networkx, tensorflow
+> Python Packages: pandas, numpy, sklearn, scipy
